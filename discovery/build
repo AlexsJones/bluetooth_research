@@ -1,1 +1,2 @@
-gcc -o main main.c -lbluetooth
+gcc -o discovery discovery.c -lbluetooth
+gcc -o discovery_connect discovery_connect.c -lbluetooth
